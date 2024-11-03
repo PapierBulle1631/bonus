@@ -5,7 +5,8 @@ Welcome to the **Microsoft Rewards Additional Thumbnails Keywords** repository! 
 ## Contents
 
 - **keywords.txt**: A text file listing all the keywords for additional searches required by bonus thumbnails. Easily view and copy them directly from this file.
-- **keywords.ps1** (coming soon): A PowerShell script that will allow you to select specific keywords to search, automating your Microsoft Rewards points collection.
+- **keywords.md** : A markdown file with the same content as the .txt but prettier :)
+- **keywords.ps1** : A PowerShell script that allows you to select specific keywords to search, automating your Microsoft Rewards points collection. Stay tuned for new keywords each week !
 
 ## Usage
 
