@@ -5,12 +5,12 @@ Welcome to the **Microsoft Rewards Additional Thumbnails Keywords** repository! 
 ## Contents
 
 - **keywords.txt**: A text file listing all the keywords for additional searches required by bonus thumbnails. Easily view and copy them directly from this file.
-- **script.py** (coming soon): A Python script that will allow you to select specific keywords to search, automating your Microsoft Rewards points collection.
+- **keywords.ps1** (coming soon): A PowerShell script that will allow you to select specific keywords to search, automating your Microsoft Rewards points collection.
 
 ## Usage
 
 1. Download the `keywords.txt` file to access the list of keywords.
-2. Stay tuned for the upcoming `script.py`, which will include a customizable interface so you can select only the searches you need.
+2. Stay tuned for the upcoming `keywords.ps1`, which will include a customizable interface so you can select only the searches you need.
 
 ## Future Plans
 
