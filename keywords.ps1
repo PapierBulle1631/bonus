@@ -1,8 +1,8 @@
 ﻿# Create a Window
 $window = New-Object System.Windows.Window
 $window.Title = "Microsoft Rewards Additional Thumbnails Keywords"
-$window.Width = 700  # Set a wider window width
-$window.Height = 700  # Set an appropriate height
+$window.width = 680  # Set a wider window width
+$window.SizeToContent = "height"  # Automatically adjust width and height based on content
 $window.WindowStartupLocation = "CenterScreen"
 $window.Background = [System.Windows.Media.Brushes]::Black
 
@@ -141,8 +141,9 @@ $stackPanel.Children.Add($removeLastButton)
 # TextBlock to show selected thumbnails with "Vignettes choisies" underlined
 $selectedThumbnailsText = New-Object System.Windows.Controls.TextBlock
 $selectedThumbnailsText.HorizontalAlignment = "Center"
-$selectedThumbnailsText.Margin = "5,25,5,10"
+$selectedThumbnailsText.Margin = "15,25,15,10"
 $selectedThumbnailsText.FontSize = 20
+$selectedThumbnailsText.TextWrapping = [System.Windows.TextWrapping]::Wrap  # Enable text wrapping
 $selectedThumbnailsText.Foreground = [System.Windows.Media.Brushes]::Green
 $stackPanel.Children.Add($selectedThumbnailsText)
 
