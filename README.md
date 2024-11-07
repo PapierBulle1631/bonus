@@ -2,6 +2,8 @@
 
 Welcome to the **Microsoft Rewards Additional Thumbnails Keywords** repository! This project contains essential keywords for completing bonus searches in the Microsoft Rewards program, helping you earn points faster.
 
+⚠ WARNING ⚠ : To launch the powershell script, you need to open it with PowerShell ISE and then run it with the green arrow 
+
 ## Contents
 
 - **keywords.txt**: A text file listing all the keywords for additional searches required by bonus thumbnails. Easily view and copy them directly from this file.
