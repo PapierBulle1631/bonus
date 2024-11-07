@@ -13,11 +13,10 @@ Welcome to the **Microsoft Rewards Additional Thumbnails Keywords** repository! 
 ## Usage
 
 1. Download the `keywords.txt` file to access the list of keywords.
-2. Stay tuned for the upcoming `keywords.ps1`, which will include a customizable interface so you can select only the searches you need.
+2. Or you can use `keywords.ps1`, which includes a customizable interface so you can select only the searches you need --> read the warning up there
 
-## Future Plans
+## The script will provide :
 
-The script will provide:
 - **Selection Options**: Customize your search by choosing specific keywords or categories.
 - **Automation**: Streamlined script execution, making the rewards program quicker and more efficient to complete.
 
