@@ -1,4 +1,4 @@
-# Keywords fonctionnels :
+# Mots clefs à utilisr dans chaque cas connus :
 
 ### Directement sur bing.com
 | Titre | A rechercher |
@@ -7,6 +7,16 @@
 | **Vous avez des symptômes?** | symptomes grippe |
 | **Trop fatigué pour cuisiner ce soir?** | buffalo grill \[votre département] |
 | **Faites vos achats plus vite** | https://www.bing.com/shop?FORM=Z9LHS4 |
+| **Vérifier la météo** | météo \[votre ville] |
+| **Trouver un endroit à découvrir** | itinéraire \[votre ville] \[une autre ville] |
+| **Rechercher paroles de chanson** | lyrics paint it black |
+| **Traduisez tout !** | forêt en espagnol | 
+| **Et si nous regardions ce film une nouvelle fois ?** | titanic film |
+| **Quelle heure est-il ?** | heure new york|
+| **Enrichissez votre vocabulaire** | pamphlet definition |
+| **Suivez les élections** | elections usa |
+| **Consulter postes à pourvoir** | postes à pourvoir |
+| **Planifiez une petite escapade** | vol paris new york |
 
 
 <br>
@@ -17,14 +27,9 @@
 | --- | --- | 
 | **Trouvez des emplacements pour rester!** | Rent room hotel| 
 |**Maisons près de chez vous!** | real estate \[votre ville] |
-
-
-# Pas sur : 
-
-- action nba odds
-- lyrics hallelujah
-
-
+| **Qui a gagné ?** | score miami heat |
+| **Comment se porte l'économie ?** | action amazon |
+| **Temps de jeu** | mario bros game|
 
 
 
