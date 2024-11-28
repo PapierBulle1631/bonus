@@ -6,7 +6,7 @@
 | **Conversion rapide de monnaie** | convertion usd euro |
 | **Vous avez des symptômes?** | symptomes grippe |
 | **Trop fatigué pour cuisiner ce soir?** | buffalo grill \[votre département] |
-| **Faites vos achats plus vite** | https://www.bing.com/shop?FORM=Z9LHS4 |
+| **Faites vos achats plus vite** | prix ordinateur portable |
 | **Vérifier la météo** | météo \[votre ville] |
 | **Trouver un endroit à découvrir** | itinéraire \[votre ville] \[une autre ville] |
 | **Rechercher paroles de chanson** | lyrics paint it black |
