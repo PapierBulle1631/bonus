@@ -1,4 +1,8 @@
-﻿# Create a Window
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Add-Type -AssemblyName PresentationFramework
+
+
+# Create a Window
 $window = New-Object System.Windows.Window
 $window.Title = "Microsoft Rewards Additional Thumbnails Keywords"
 $window.width = 680  # Set a wider window width
