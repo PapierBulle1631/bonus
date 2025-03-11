@@ -1,9 +1,11 @@
 # Microsoft Rewards Additional Thumbnails Keywords
 
+Before using the sripts, consider that due to a long inactive time the parameters of the script may cause it to disfunction.
+
 | **English** | **Français** |
 |-------------|--------------|
 | Welcome to the **Microsoft Rewards Additional Thumbnails Keywords** repository! This project contains essential keywords for completing bonus searches in the Microsoft Rewards program, helping you earn points faster. | Bienvenue dans le dépôt **Microsoft Rewards Additional Thumbnails Keywords** ! Ce projet contient des mots-clés essentiels pour compléter les recherches bonus dans le programme Microsoft Rewards, vous permettant de gagner des points plus rapidement. |
-| ⚠ WARNING ⚠ : To launch the PowerShell script, you need to open it with PowerShell ISE and then run it with the green arrow | ⚠ AVERTISSEMENT ⚠ : Pour lancer le script PowerShell, vous devez l'ouvrir avec PowerShell ISE, puis l'exécuter avec la flèche verte. |
+| ⚠ WARNING ⚠ : To launch the PowerShell script, you need to open it with PowerShell ISE and then run it with the green arrow. | ⚠ AVERTISSEMENT ⚠ : Pour lancer le script PowerShell, vous devez l'ouvrir avec PowerShell ISE, puis l'exécuter avec la flèche verte. |
 | ## Contents | ## Contenu |
 | - **keywords.txt**: A text file listing all the keywords for additional searches required by bonus thumbnails. Easily view and copy them directly from this file. | - **keywords.txt** : Un fichier texte répertoriant tous les mots-clés nécessaires pour les recherches supplémentaires requises par les vignettes bonus. Vous pouvez facilement les voir et les copier directement depuis ce fichier. |
 | - **keywords.md**: A markdown file with the same content as the .txt but prettier :) | - **keywords.md** : Un fichier markdown avec le même contenu que le .txt, mais plus joli :) |
